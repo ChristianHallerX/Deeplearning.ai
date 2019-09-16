@@ -1,2 +1,2 @@
 # Deeplearning.ai
- Notebooks
+ Exercise notebooks of Dr. Andrew Ng's ML/DL course.
