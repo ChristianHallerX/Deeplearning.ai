@@ -13,6 +13,7 @@
 	Deep Neural Network Application for Image Classification
 
 2 Improving Deep Neural Networks
-	Initialization
+	Initialization (zero, random...)
 	Regularization
 	Gradient Checking
+	Optimization (Mini-Batch, Momentum, Adam)
