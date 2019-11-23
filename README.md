@@ -33,4 +33,6 @@
 
 4 Convolutional Neural Networks
 
-	- Convolutional Neural Networks: Step by Step (zero padding, convolve window, average/max pooling, backward propagation)
+	- Convolutional Neural Networks: Step by Step (zero padding, convolve window, average/max pooling, backward propagation). Manual execution.
+	
+	- Convolutional Neural Networks: Application with TensorFlow
