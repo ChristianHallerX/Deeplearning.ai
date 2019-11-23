@@ -17,3 +17,9 @@
 	Regularization
 	Gradient Checking
 	Optimization (Mini-Batch, Momentum, Adam)
+	
+3 Structuring Machine Learning Projects
+	(no labs)
+
+4 Convolutional Neural Networks
+	Convolutional Neural Networks: Step by Step (zero padding, convolve window, average/max pooling, backward propagation)
