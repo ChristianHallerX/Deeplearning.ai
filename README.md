@@ -38,3 +38,5 @@
 	- Convolutional Neural Networks: Application with TensorFlow
 	
 	- Keras Tutorial
+	
+	- ResNets
