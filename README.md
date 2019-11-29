@@ -37,7 +37,7 @@
 	
 	- Convolutional Neural Networks: Application with TensorFlow (finger detection data set)
 	
-	- Keras Tutorial
+	- Keras Tutorial (smile detection)
 	
 	- ResNets (finger detection data set)
 	
