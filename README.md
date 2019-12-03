@@ -42,3 +42,7 @@
 	- ResNets (finger detection data set)
 	
 	- Car detection with YOLO
+	
+	- Neural Style Transfer
+	
+	- Face Recognition
