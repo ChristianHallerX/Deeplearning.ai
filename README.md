@@ -46,3 +46,12 @@
 	- Neural Style Transfer
 	
 	- Face Recognition
+
+
+5 Sequence Models
+
+	- Building a Recurrent Neural Network Step by Step
+	
+	- Dinosaur Island: Character-Level Language Modeling
+	
+	- Jazz-improvisation with LSTM
