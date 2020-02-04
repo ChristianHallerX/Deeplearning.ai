@@ -55,3 +55,7 @@
 	- Dinosaur Island: Character-Level Language Modeling
 	
 	- Jazz-improvisation with LSTM
+	
+	- Operations on word vectors (Word analogies and Debiasing word vectors)
+	
+	- "Emojify" NLP for classifying short sentences with emojis
