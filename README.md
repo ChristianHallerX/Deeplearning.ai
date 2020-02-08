@@ -41,21 +41,25 @@
 	
 	- ResNets (finger detection data set)
 	
-	- Car detection with YOLO
+	- Car detection with YOLO (basics of a self-driving car camera)
 	
-	- Neural Style Transfer
+	- Deep Learning & Art: Neural Style Transfer (create artsy images)
 	
-	- Face Recognition
+	- Face Recognition (verification and recognition using triplet loss and FaceNet)
 
 
 5 Sequence Models
 
-	- Building a Recurrent Neural Network Step by Step
+	- Building a Recurrent Neural Network Step by Step (RNN and LSTM forward pass and backward pass in detail)
 	
-	- Dinosaur Island: Character-Level Language Modeling
+	- Dinosaur Island: Character-Level Language Modeling (Create new dinosaur names)
 	
-	- Jazz-improvisation with LSTM
+	- Jazz-improvisation with LSTM (Train an LSTM to create music)
+	
 	
 	- Operations on word vectors (Word analogies and Debiasing word vectors)
 	
 	- "Emojify" NLP for classifying short sentences with emojis
+	
+	
+	- Neural Machine Translation (From hand-written dates to machine-readable dates)
