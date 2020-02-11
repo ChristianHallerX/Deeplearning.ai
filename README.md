@@ -63,3 +63,5 @@
 	
 	
 	- Neural Machine Translation (From hand-written dates to machine-readable dates)
+	
+	- Trigger Word Detection (for training create audio clips with positive, negative words and background noise; play chime when positive world detected)
