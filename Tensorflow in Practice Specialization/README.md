@@ -11,6 +11,6 @@
 	- Fashion MNIST
 	- Early Stopping (Callbacks)
 	- MNIST
-	- Convolutions in Computer Vision
+	- Convolutions and Pooling in Computer Vision
 	-
 	
