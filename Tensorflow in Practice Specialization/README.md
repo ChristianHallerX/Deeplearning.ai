@@ -7,5 +7,10 @@
 
 1 Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 
-	- The Hello World of Deep Learning with Neural Networks
+	- The Hello World of Deep Learning with Neural Networks (House Prices Formula)
+	- Fashion MNIST
+	- Early Stopping (Callbacks)
+	- MNIST
+	- Convolutions in Computer Vision
+	-
 	
