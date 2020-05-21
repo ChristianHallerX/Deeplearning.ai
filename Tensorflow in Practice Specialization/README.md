@@ -12,5 +12,5 @@
 	- Early Stopping (Callbacks)
 	- MNIST
 	- Convolutions and Pooling in Computer Vision
+	- Image Generator for auto-labeling images in folders
 	-
-	
