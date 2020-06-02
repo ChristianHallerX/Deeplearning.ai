@@ -5,7 +5,7 @@
 
 ## Notebooks
 
-1 Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+Course 1 Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 
 	- The Hello World of Deep Learning with Neural Networks (House Prices Formula)
 	- Fashion MNIST
@@ -13,4 +13,14 @@
 	- MNIST
 	- Convolutions and Pooling in Computer Vision
 	- Image Generator for auto-labeling images in folders
-	-
+
+Course 2 Convolutional Neural Networks in TensorFlow
+
+	- The Cats vs. Dogs model
+	- 
+
+Course 3 
+	- 
+	
+Course 4
+	- 
