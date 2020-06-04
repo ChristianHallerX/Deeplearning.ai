@@ -17,7 +17,8 @@ Course 1 Introduction to TensorFlow for Artificial Intelligence, Machine Learnin
 Course 2 Convolutional Neural Networks in TensorFlow
 
 	- The Cats vs. Dogs model
-	- 
+	- Image Augmentation for Cats vs. Dogs, Humans vs. Horses
+	-
 
 Course 3 
 	- 
