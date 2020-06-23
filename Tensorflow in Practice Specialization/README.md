@@ -21,7 +21,7 @@ Course 2 Convolutional Neural Networks in TensorFlow
 	- Transfer Learning for Cats vs. Dogs, Humans vs. Horses
 	- Three categories training: Rock, Paper, Scissors
 
-Course 3 
+Course 3 Natural Language Processing in TensorFlow
 	- 
 	
 Course 4
