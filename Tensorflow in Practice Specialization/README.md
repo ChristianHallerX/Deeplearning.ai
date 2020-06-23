@@ -19,7 +19,7 @@ Course 2 Convolutional Neural Networks in TensorFlow
 	- The Cats vs. Dogs model
 	- Image Augmentation for Cats vs. Dogs, Humans vs. Horses
 	- Transfer Learning for Cats vs. Dogs, Humans vs. Horses
-	- 
+	- Three categories training: Rock, Paper, Scissors
 
 Course 3 
 	- 
