@@ -22,7 +22,8 @@ Course 2 Convolutional Neural Networks in TensorFlow
 	- Three categories training: Rock, Paper, Scissors
 
 Course 3 Natural Language Processing in TensorFlow
-	- 
+	- Tokenize BBC news articles
+	-
 	
 Course 4
 	- 
