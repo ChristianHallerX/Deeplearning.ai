@@ -23,8 +23,8 @@ Course 2 Convolutional Neural Networks in TensorFlow
 
 Course 3 Natural Language Processing in TensorFlow
 
-	- Tokenize BBC news articles
-	-
+	- Word Dictonaries: Tokenize BBC news articles
+	- Embeddings
 	
 Course 4
 	- 
