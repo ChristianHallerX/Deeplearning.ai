@@ -25,7 +25,7 @@ Course 3 Natural Language Processing in TensorFlow
 
 	- Word Dictonaries: Tokenize BBC news articles, Sarcasm internet articles
 	- Embeddings: 1 IMDB movie reviews sentiment (normal + subwords8k vocab), 2 Sarcasm internet articles, 3 BBC news articles
-	- 
+	- Sequences (Recurrent Neural Networks RNN)
 	
 Course 4
 	- 
