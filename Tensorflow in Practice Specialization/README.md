@@ -2,6 +2,8 @@
  Exercise notebooks of Dr. Andrew Ng's and Laurence Moroney's ML/DL course.
  
  If the notebooks do not get displayed on the first try, press "releoad" as often times as needed until they show.
+ 
+ Notebooks were by standard presented in Google CoLab (Linux). I re-wrote many of them to run on my Windows machine to allow for faster model training.
 
 ## Notebooks
 
@@ -25,7 +27,8 @@ Course 3 Natural Language Processing in TensorFlow
 
 	- Word Dictonaries: Tokenize BBC news articles, Sarcasm internet articles
 	- Embeddings: 1 IMDB movie reviews sentiment (normal + subwords8k vocab), 2 Sarcasm internet articles, 3 BBC news articles
-	- Sequences (Recurrent Neural Networks RNN)
+	- Sequences (Recurrent Neural Networks RNN) LSTM, double LSTMs, GRU, 1d Convolutions
+	- 
 	
 Course 4
 	- 
