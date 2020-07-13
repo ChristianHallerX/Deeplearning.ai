@@ -1,9 +1,12 @@
 # TensorFlow in Practice Specialization by Deeplearning.ai
- Exercise notebooks of Dr. Andrew Ng's and Laurence Moroney's ML/DL course.
+
+![](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2019/06/Website-TFSDesktopBanner.png)
+
+Exercise notebooks of Dr. Andrew Ng's and Laurence Moroney's ML/DL course.
  
- If the notebooks do not get displayed on the first try, press "releoad" as often times as needed until they show.
+If the notebooks do not get displayed on the first try, press "releoad" as often times as needed until they show.
  
- Notebooks were by standard presented in Google CoLab (Linux). I re-wrote many of them to run on my Windows machine to allow for faster model training.
+Notebooks were by standard presented in Google CoLab (Linux). I re-wrote many of them to run on my Windows machine to allow for faster model training.
 
 ## Notebooks
 
@@ -30,5 +33,5 @@ Course 3 Natural Language Processing in TensorFlow
 	- Sequences (Recurrent Neural Networks RNN) LSTM, double LSTMs, GRU, 1d Convolutions
 	- Text Generation (Irish Song and Shakespeare)
 	
-Course 4
+Course 4 Sequences, Time Series and Prediction
 	- 
