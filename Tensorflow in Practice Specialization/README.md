@@ -34,4 +34,5 @@ Course 3 Natural Language Processing in TensorFlow
 	- Text Generation (Irish Song and Shakespeare)
 	
 Course 4 Sequences, Time Series and Prediction
+	- Sequences and Prediction, Seasonality/Differencing, Moving Averages (no ML yet)
 	- 
