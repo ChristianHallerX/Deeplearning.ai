@@ -35,4 +35,4 @@ Course 3 Natural Language Processing in TensorFlow
 	
 Course 4 Sequences, Time Series and Prediction
 	- Sequences and Prediction, Seasonality/Differencing, Moving Averages (no ML yet)
-	- 
+	- DNNs and Windowed Training Sets
