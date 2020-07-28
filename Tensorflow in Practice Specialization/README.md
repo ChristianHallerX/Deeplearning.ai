@@ -36,5 +36,5 @@ Course 3 Natural Language Processing in TensorFlow
 Course 4 Sequences, Time Series and Prediction
 	- Sequences and Prediction, Seasonality/Differencing, Moving Averages (no ML yet)
 	- Sequences with DNNs, Windowed Training Sets, Learning Rate Optimization
-	- Sequences with RNN's (LSTM), Lambda function layers
-	-
+	- Sequences with RNNs (LSTM), Lambda function layers
+	- Sequences with 1D CNNs and RNNs combined, Sun Spot data set
